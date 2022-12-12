@@ -1,14 +1,13 @@
 ---
 title: "TransPolymer: a Transformer-based Language Model for Polymer Property Predictions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-09-03-TransPolymer
 date: 2022-09-03
 venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2209.01307'
 authors: C Xu, Y Wang, and A Barati Farimani, arXiv preprint, 2022
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<a href='https://arxiv.org/abs/2209.01307'>Paper available here</a>
 
 ---
 
