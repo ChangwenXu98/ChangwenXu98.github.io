@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Materials Science and Engineering, South China University of Technology, 2021
+* M.S. in Computational Materials Science and Engineering, Carnegie Mellon University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2022: Research Assistant
+  * Carnegie Mellon University
+  * Duties included: Developing AI for molecule property prediction
+  * Supervisor: Prof. Amir Barati Farimani
 
 Publications
 ======
@@ -47,13 +32,21 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Computational Skills
+  * Programming Languages: Python, SQL, MATLAB, R
+  * Frameworks: PyTorch, Tensorflow, Keras
+  * Developer Tools: Google Cloud Platform, PyCharm, VS code, Visual Studio, Docker, Git
+  * Libraries: pandas, NumPy, Matplotlib, sklearn, Huggingface, RDKit
+  * Deep Learning Model: Transformer, DDPM, Score-based Generative Model, LSTM, CNN
+  * Computation and Simulation Tools: Molecular Dynamics, DFT
+* Experimental Skills
+  * Synthesis Skills: organic synthesis of small molecules and COFs, purification skills like column chromatography and Soxhlet purification
+  * Characterization Techniques: FTIR, UV-vis spectrophotometry, XRD, SEM, XPS
+  * Electrochemical Experimental Skills: CV, DPV, chronoamperometry
+* Additional Skills
+  * Spoken Languages: English (fluent), Chinese (native)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
