@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my [CV](http://ChangwenXu98.github.io/files/CV) (last updated December 2022)
+You can download my [CV](http://ChangwenXu98.github.io/files/CV.pdf) (last updated December 2022)
 
 {% include base_path %}
 
