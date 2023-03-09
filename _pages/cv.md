@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my [CV](http://ChangwenXu98.github.io/files/CV.pdf) (last updated December 2022)
+You can download my [CV](http://ChangwenXu98.github.io/files/CV.pdf) (last updated March 2023)
 
 {% include base_path %}
 
@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2022: Research Assistant
+* Summer 2022 and Spring 2023: Research Assistant
   * Carnegie Mellon University
   * Duties included: Developing AI for molecule property prediction
   * Supervisor: Prof. Amir Barati Farimani
@@ -34,6 +34,10 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Professional Services
+======
+* Reviewer: ICLR ML4Materials Workshop'23
 
 Skills
 ======
