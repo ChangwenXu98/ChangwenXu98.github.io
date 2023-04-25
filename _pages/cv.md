@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my [CV](http://ChangwenXu98.github.io/files/CV.pdf) (last updated March 2023)
+You can download my [CV](http://ChangwenXu98.github.io/files/CV.pdf) (last updated April 2023)
 
 {% include base_path %}
 
@@ -23,6 +23,10 @@ Work experience
   * Duties included: Developing AI for molecule property prediction
   * Supervisor: Prof. Amir Barati Farimani
 
+* Spring 2023: Global Alpha Researcher
+  * Trexquant Investment LP
+  * Duties Included: Applying Machine Learning for profitable strategies using trading signals
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -35,9 +39,15 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Blog Posts
+======
+  <ul>{% for post in site.posts %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 Professional Services
 ======
-* Reviewer: ICLR ML4Materials Workshop'23
+* Reviewer: NeurIPS'23, ICLR ML4Materials Workshop'23, ICML SPIGM Workshop'23
 
 Skills
 ======
