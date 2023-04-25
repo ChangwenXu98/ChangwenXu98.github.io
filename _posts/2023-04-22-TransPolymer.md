@@ -1,7 +1,7 @@
 ---
 title: 'TransPolymer: a Transformer-based language model for polymer property predictions'
 date: 2023-04-22
-permalink: /posts/2023-04-22-TransPolymer
+permalink: /posts/2023/04/TransPolymer/
 tags:   
   - Transformer
   - AI4Science
