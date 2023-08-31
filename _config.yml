@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Changwen Xu"
 title_separator          : "-"
 name                     : &name "Changwen Xu"
-description              : &description "Graduate Student at Carnegie Mellon University"
+description              : &description "Ph.D. Student at University of Michigan"
 url                      : https://ChangwenXu98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Changwen Xu"
   avatar           : "profile.jpg"
-  bio              : "Graduate Student at Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "Ph.D. Student at University of Michigan"
+  location         : "Ann Arbor, MI"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GyVx78kAAAAJ&hl=en"
-  email            : "changwex@andrew.cmu.edu"
+  email            : "changwex@umich.edu"
   researchgate     : "https://www.researchgate.net/profile/Changwen-Xu-3"
   uri              :
   bitbucket        :

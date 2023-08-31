@@ -13,11 +13,17 @@ You can download my [CV](http://ChangwenXu98.github.io/files/CV.pdf) (last updat
 
 Education
 ======
+* Ph.D. in Mechanical Engineering, University of Michigan, 2027 (expected)
 * B.E. in Materials Science and Engineering, South China University of Technology, 2021
 * M.S. in Computational Materials Science and Engineering, Carnegie Mellon University, 2022
 
 Work experience
 ======
+* Summer 2023: Machine Learning Summer Internship
+  * Redesign Science
+  * Duties included: Improving Machine-Learned Collective Variables with Energy-based Path Construction
+  * Supervisor: Dr. Andreas Mardt
+
 * Summer 2022 and Spring 2023: Research Assistant
   * Carnegie Mellon University
   * Duties included: Developing AI for molecule property prediction
