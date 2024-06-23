@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 
-You can download my [CV](http://ChangwenXu98.github.io/files/CV.pdf) (last updated September 2023)
+You can download my [CV](http://ChangwenXu98.github.io/files/CV.pdf) (last updated June 2024)
 
 {% include base_path %}
 
 Education
 ======
 * Ph.D. in Mechanical Engineering, University of Michigan, 2027 (expected)
-* B.E. in Materials Science and Engineering, South China University of Technology, 2021
 * M.S. in Computational Materials Science and Engineering, Carnegie Mellon University, 2022
+* B.E. in Materials Science and Engineering, South China University of Technology, 2021
 
 Work experience
 ======
@@ -53,7 +53,7 @@ Blog Posts
 
 Professional Services
 ======
-* Reviewer: NeurIPS'23, ICLR ML4Materials Workshop'23, ICML SPIGM Workshop'23
+* Reviewer: NeurIPS'23-24, ICLR'24, ICML'24, ICLR ML4Materials Workshop'23, ICML SPIGM Workshop'23-24, ICML AI4Science Workshop'24
 
 Skills
 ======
